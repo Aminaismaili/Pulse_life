@@ -1,0 +1,10 @@
+version: 2
+
+sphinx:
+  configuration: docs/conf.py  # Si vous utilisez Sphinx
+
+python:
+  version: 3.8
+  install:
+    - requirements: requirements.txt  # Ou le chemin d'un fichier contenant les dépendances
+
