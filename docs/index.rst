@@ -10,7 +10,7 @@ Welcome to project1's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-    membres
+    Equipe
     Description
     Etapes
     
@@ -64,6 +64,4 @@ Exécution du Projet
    pip install haystack transformers streamlit
 >>>>>>> d9ec83a9e18c07df6ccccc5df84b004722b89da1
  
-    membres
-    Description
-    Etapes
+   
