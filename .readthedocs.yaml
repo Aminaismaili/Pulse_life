@@ -6,10 +6,10 @@ build:
     python: "3.9"
 
 sphinx:
-  configuration: docs/conf.py  # Si vous utilisez Sphinx
+  configuration: conf.py  # Si vous utilisez Sphinx
 
 
 python:
   version: 3.9
   install:
-    - requirements: docs/requirements.txt  # Ou le chemin d'un fichier contenant les dépendances
+    - requirements: requirements.txt  # Ou le chemin d'un fichier contenant les dépendances
