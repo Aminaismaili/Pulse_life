@@ -9,8 +9,9 @@ Welcome to project1's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+    Membre
+    description
+    Etapes 
 
 Indices and tables
 ==================
